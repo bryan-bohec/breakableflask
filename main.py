@@ -54,7 +54,7 @@ DATABASE_TABLES = [
 # table columns must be specified in DATABASE_TABLES structure with column names in the list in the same order as below
 DATABASE_CONTENTS = {
     'public_stuff' : [
-        (1, 'Military grade encryption', 'products', 'Dont let your data be compromised, use our patented exabit encryption technology that secures your data so well even you cant read it'),
+        (1, 'Military grade encryption', 'products', 'Dont let your dataa be compromised, use our patented exabit encryption technology that secures your data so well even you cant read it'),
         (2, 'Advanced APT Detection', 'products', 'Fully next-gen big-data backed threat analysis with extra AI that detects TTPs, C2s, Malwares and SIEMs'),
         (3, 'Internet of things', 'whitepapers', 'Check out our cyber strategies to survive the next cyber fight on the new cyber battleground in the ongoing cyber war'),
         (4, 'Enterprise version', 'solutions', 'Our most cost efficient solution for all your cyber concerns featuring the best value for money, the most effective breaking of the kill chain and the greatest ROI'),
